@@ -1,3 +1,5 @@
+##Link para acessar a página: https://joao-ale.github.io/curriculo/
+
 ## Descrição
 
 Este repositório contém o código-fonte HTML do currículo de João Alexandre Silva de Santana, um estudante de Ciência da Computação da FMU. O currículo é projetado para fornecer uma apresentação clara e organizada das informações relevantes sobre a experiência profissional, educação, habilidades, certificações e cursos relevantes.
